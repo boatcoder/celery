@@ -245,7 +245,7 @@ use the help command:
 
 .. code-block:: console
 
-    $ celery help
+    $ celery --help
 
 Where to go from here
 =====================
